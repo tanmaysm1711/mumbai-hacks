@@ -1,0 +1,16 @@
+sno,Make,Model,Year,Color,Fuel Type,Mileage (km),Price ($)
+1,Toyota,Camry,2022,Silver,Gasoline,15000,25000
+2,Ford,Mustang,2023,Red,Diesel,10500,35000
+3,Honda,Civic,2021,Blue,Hybrid,20200,22500
+4,Chevrolet,Equinox,2022,Black,Gasoline,18000,28500
+5,BMW,3 Series,2023,White,Electric,12800,40000
+6,Mercedes,E-Class,2022,Gray,Diesel,16500,45000
+7,Nissan,Rogue,2021,Green,Gasoline,22000,23800
+8,Tesla,Model 3,2023,Silver,Electric,8500,48000
+9,Hyundai,Tucson,2022,Orange,Hybrid,14300,26500
+10,Ford,Escape,2021,Black,Gasoline,25000,21000
+11,Toyota,RAV4,2023,Blue,Hybrid,11200,31500
+12,Chevrolet,Malibu,2022,Red,Gasoline,19800,27000
+13,Honda,Accord,2023,White,Hybrid,9500,33000
+14,Volkswagen,Jetta,2021,Silver,Diesel,21500,19500
+15,Subaru,Outback,2022,Gray,Gasoline,17000,29800

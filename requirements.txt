@@ -1,0 +1,8 @@
+langchain
+langchain_experimental
+ctransformers
+sentence_transformers
+faiss-cpu
+pandas
+flask
+requests
